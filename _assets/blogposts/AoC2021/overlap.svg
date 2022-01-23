@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg5"
+   version="1.1"
+   viewBox="0 0 105.83333 52.916668"
+   height="200"
+   width="400"
+   sodipodi:docname="overlap.svg"
+   inkscape:export-filename="/home/tobias/Documents/Blog/_assets/blogposts/AoC2021/overlap.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     units="px"
+     width="800px"
+     inkscape:zoom="2.7616442"
+     inkscape:cx="287.87198"
+     inkscape:cy="153.53172"
+     inkscape:window-width="2560"
+     inkscape:window-height="1416"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#00a2ff;fill-opacity:0.8;stroke:#000000;stroke-width:0.195296;stroke-linecap:square"
+       id="rect996"
+       width="42.209751"
+       height="23.679649"
+       x="2.7635834"
+       y="2.5607884" />
+    <rect
+       style="fill:#00a2ff;fill-opacity:0.8;stroke:#000000;stroke-width:0.304901;stroke-linecap:square"
+       id="rect1303"
+       width="29.15708"
+       height="28.914368"
+       x="71.365532"
+       y="18.63139" />
+    <path
+       d="M 0,0 0,52.916665 M 2.6458333,0 l 0,52.916665 M 5.2916665,0 l 0,52.916665 M 7.9374998,0 l 0,52.916665 M 10.583333,0 l 0,52.916665 M 13.229166,0 l 0,52.916665 M 15.875,0 l 0,52.916665 M 18.520833,0 l 0,52.916665 M 21.166666,0 l 0,52.916665 M 23.812499,0 l 0,52.916665 M 26.458332,0 l 0,52.916665 M 29.104166,0 l 0,52.916665 M 31.749999,0 l 0,52.916665 M 34.395832,0 l 0,52.916665 M 37.041665,0 l 0,52.916665 M 39.687499,0 l 0,52.916665 M 42.333332,0 l 0,52.916665 M 44.979165,0 l 0,52.916665 M 47.624999,0 l 0,52.916665 M 50.270832,0 l 0,52.916665 M 52.916665,0 l 0,52.916665 M 55.562498,0 l 0,52.916665 M 58.208332,0 l 0,52.916665 M 60.854165,0 l 0,52.916665 M 63.499998,0 l 0,52.916665 M 66.145831,0 l 0,52.916665 M 68.791665,0 l 0,52.916665 M 71.437498,0 l 0,52.916665 M 74.083331,0 l 0,52.916665 M 76.729164,0 l 0,52.916665 M 79.374998,0 l 0,52.916665 M 82.020831,0 l 0,52.916665 M 84.666664,0 l 0,52.916665 M 87.312497,0 l 0,52.916665 M 89.95833,0 l 0,52.916665 M 92.604164,0 l 0,52.916665 M 95.249997,0 l 0,52.916665 M 97.89583,0 l 0,52.916665 M 100.54166,0 l 0,52.916665 M 103.1875,0 l 0,52.916665 M 105.83333,0 l 0,52.916665 M 0,0 105.83333,0 M 0,2.6458333 l 105.83333,0 M 0,5.2916665 l 105.83333,0 M 0,7.9374998 l 105.83333,0 M 0,10.583333 l 105.83333,0 M 0,13.229166 l 105.83333,0 M 0,15.875 l 105.83333,0 M 0,18.520833 l 105.83333,0 M 0,21.166666 l 105.83333,0 M 0,23.812499 l 105.83333,0 M 0,26.458332 l 105.83333,0 M 0,29.104166 l 105.83333,0 M 0,31.749999 l 105.83333,0 M 0,34.395832 l 105.83333,0 M 0,37.041665 l 105.83333,0 M 0,39.687499 l 105.83333,0 M 0,42.333332 l 105.83333,0 M 0,44.979165 l 105.83333,0 M 0,47.624999 l 105.83333,0 M 0,50.270832 l 105.83333,0"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px"
+       id="path1597" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.46944px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;word-spacing:0px;stroke-width:0.264583"
+       x="91.089912"
+       y="4.0354571"
+       id="text24365"><tspan
+         sodipodi:role="line"
+         id="tspan24363"
+         style="stroke-width:0.264583"
+         x="91.089912"
+         y="4.0354571" /></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square"
+       id="rect30535"
+       width="15.875"
+       height="13.229165"
+       x="89.958336"
+       y="0" />
+    <rect
+       style="fill:#00a2ff;fill-opacity:0.80000001;stroke:#000000;stroke-width:0.264999;stroke-linecap:square"
+       id="rect30705"
+       width="2.2230196"
+       height="2.3697202"
+       x="91.366692"
+       y="2.9854965" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;word-spacing:0px;stroke-width:0.264583"
+       x="94.762665"
+       y="5.5930657"
+       id="text34449"><tspan
+         sodipodi:role="line"
+         id="tspan34447"
+         style="font-size:5.29167px;stroke-width:0.264583"
+         x="94.762665"
+         y="5.5930657">on</tspan></text>
+    <rect
+       style="fill:#ad0000;fill-opacity:0.80000001;stroke:#000000;stroke-width:0.264999;stroke-linecap:square"
+       id="rect30705-3"
+       width="2.2230196"
+       height="2.3697202"
+       x="91.366692"
+       y="8.2277203" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;word-spacing:0px;stroke-width:0.264583"
+       x="94.762665"
+       y="10.835289"
+       id="text34449-6"><tspan
+         sodipodi:role="line"
+         id="tspan34447-7"
+         style="font-size:5.29167px;stroke-width:0.264583"
+         x="94.762665"
+         y="10.835289">off</tspan></text>
+    <rect
+       style="fill:#ad0000;fill-opacity:0.8;stroke:#000000;stroke-width:0.264999;stroke-linecap:square"
+       id="rect38570"
+       width="68.562263"
+       height="31.779137"
+       x="18.587692"
+       y="10.7401" />
+  </g>
+</svg>
